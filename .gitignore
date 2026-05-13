@@ -1,0 +1,50 @@
+# Ignorar todos los archivos por defecto
+*
+
+# Permitir recorrer subdirectorios
+!*/
+
+# No ignorar el propio .gitignore ni el README
+!.gitignore
+!README.md
+
+# Imágenes
+!*.jpg
+!*.jpeg
+!*.png
+!*.gif
+!*.bmp
+!*.tif
+!*.tiff
+!*.webp
+!*.svg
+!*.heic
+!*.heif
+!*.ico
+!*.JPG
+!*.JPEG
+!*.PNG
+!*.GIF
+!*.BMP
+!*.TIF
+!*.TIFF
+!*.WEBP
+!*.SVG
+!*.HEIC
+!*.HEIF
+!*.ICO
+
+# PDFs
+!*.pdf
+!*.PDF
+
+# Audio
+!*.mp3
+!*.MP3
+
+# PDFs demasiado pesados (>50 MB) - exceden el limite de GitHub
+IA/CEREZO/CEREZO_LOTES_INFORMACIÓN IRM.pdf
+IA/NOGAL/AYUDAVENTAS NOGAL_pdf.pdf
+IA/NOGAL/NOGAL_BROCHURE_MOBIL.pdf
+IA/CITYLIFE/AYUDAVENTAS_DIGITAL_CITYLIFE.pdf
+IA/CITYLIFE/CHATS/Chat de WhatsApp con Margarita Obando City Life/CITYLIFE_BROCHURE MOVIL_2024-2.pdf
